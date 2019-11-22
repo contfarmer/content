@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/article/</loc>
+    <loc>https://contfarmer.github.io/content/article/</loc>
     <lastmod>2019-11-21T08:29:52+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/article/20191121/</loc>
+    <loc>https://contfarmer.github.io/content/article/20191121/</loc>
     <lastmod>2019-11-21T08:29:52+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://contfarmer.github.io/content/</loc>
     <lastmod>2019-11-21T08:29:52+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://contfarmer.github.io/content/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://contfarmer.github.io/content/tags/</loc>
   </url>
   
 </urlset>
